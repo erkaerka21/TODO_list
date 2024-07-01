@@ -1,3 +1,60 @@
-.btn {
-  font-weight: 900;
+* {
+  /* box-sizing: border-box;
+  margin: 0px; */
 }
+body {
+  background-color: rgba(45, 44, 44, 0.823) !important;
+}
+.fw-bold {
+  color: white;
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+}
+.card {
+  background-color: black !important;
+}
+.card-body {
+  height: 85vh;
+}
+.ms-2 {
+  background-color: black !important;
+}
+.list-group-item {
+  background-color: black !important;
+  padding: 8px;
+}
+.form-check-label {
+  color: rgba(128, 128, 128, 0.918) !important;
+}
+.fa-pen-to-square {
+  color: aliceblue;
+}
+.fa-trash {
+  color: red;
+}
+.point {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+.point-1 {
+  background-color: aliceblue;
+}
+.point-2 {
+  background-color: rgb(107, 161, 130);
+}
+.point-3 {
+  background-color: greenyellow;
+}
+.point-4 {
+  background-color: red;
+}
+/* .d-grid {
+  margin-top: 52px;
+  margin-left: 50px;
+  margin-bottom: 25px;
+} */
